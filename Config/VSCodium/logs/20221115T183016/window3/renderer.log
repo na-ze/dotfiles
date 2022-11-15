@@ -1,0 +1,2 @@
+2022-11-15 18:36:37.462 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/kirill/.config/neofetch/config.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2022-11-15 18:36:41.979 [info] [perf] Render performance baseline is 44ms

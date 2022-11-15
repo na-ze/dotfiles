@@ -1,0 +1,17 @@
+[2022-11-13 21:38:00.200] [exthost] [info] Extension host with pid 2708 started
+[2022-11-13 21:38:00.200] [exthost] [info] Skipping acquiring lock for /home/kirill/.config/VSCodium/User/workspaceStorage/efd6a67e16298fe934fd73c57a42fcb0.
+[2022-11-13 21:38:02.003] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-13 21:38:02.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-11-13 21:38:02.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-13 21:38:02.004] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2022-11-13 21:38:02.004] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-11-13 21:38:02.005] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync, startup: true, activationEvent: '*'
+[2022-11-13 21:38:06.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-11-13 21:38:06.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-13 21:38:07.677] [exthost] [info] Not activating extension 'redhat.java': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+[2022-11-13 21:38:07.677] [exthost] [info] Not activating extension 'vscjava.vscode-java-dependency': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+[2022-11-13 21:38:07.677] [exthost] [info] Not activating extension 'vscjava.vscode-java-pack': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+[2022-11-13 21:38:07.678] [exthost] [info] Not activating extension 'vscjava.vscode-java-test': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+[2022-11-13 21:38:07.678] [exthost] [info] Not activating extension 'vscjava.vscode-maven': Timed out while searching for 'workspaceContains' pattern **/pom.xml
+[2022-11-13 21:38:07.678] [exthost] [info] Extension host terminating: parent process 2641 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2022-11-13 21:38:07.681] [exthost] [info] Extension host with pid 2708 exiting with code 0

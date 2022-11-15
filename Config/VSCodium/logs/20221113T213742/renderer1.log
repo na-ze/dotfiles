@@ -1,0 +1,6 @@
+[2022-11-13 21:37:54.161] [renderer1] [critical] Extension 'ms-toolsai.jupyter' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden
+product.json (WINS): notebookControllerKind, notebookDebugOptions, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow
+[2022-11-13 21:38:04.348] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-11-13 21:38:06.477] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-11-13 21:38:06.530] [renderer1] [warning] UNRESPONSIVE extension host: 'Shan.code-settings-sync' took 92% of 99.753ms, saved PROFILE here: 'file:///tmp/exthost-fdadf2.cpuprofile' [{"id":"program","total":1447,"percentage":1},{"id":"self","total":5305,"percentage":5},{"id":"Shan.code-settings-sync","total":91756,"percentage":92},{"id":"vscode.debug-auto-launch","total":161,"percentage":0}]

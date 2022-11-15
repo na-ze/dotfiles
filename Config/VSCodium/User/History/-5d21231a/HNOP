@@ -1,0 +1,10 @@
+i = 1000
+while True:
+if i > 7:
+a = i
+i -= 7
+print(a,
+" - 7 = ", i)
+elif i < 7:
+print("Я гуль!")
+break

@@ -1,0 +1,11 @@
+{
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "editor.formatOnSave": true,
+    "explorer.confirmDelete": false,
+    "bracketPairColorizer.depreciation-notice": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.insertSpaces": false,
+    "editor.mouseWheelZoom": true,
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Atomize"
+}

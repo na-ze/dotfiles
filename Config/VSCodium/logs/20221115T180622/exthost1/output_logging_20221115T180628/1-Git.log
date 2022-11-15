@@ -1,0 +1,18 @@
+[2022-11-15T15:06:30.627Z] Уровень ведения журнала: Info
+[2022-11-15T15:06:30.639Z] [info] Проверка найденного git в:git
+[2022-11-15T15:06:30.881Z] [info] Используется git 2.38.1 из git
+[2022-11-15T15:06:31.421Z] > git rev-parse --show-toplevel [503ms]
+[2022-11-15T15:06:31.421Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-11-15T15:06:31.440Z] > git rev-parse --show-toplevel [7ms]
+[2022-11-15T15:06:31.440Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-11-15T15:06:31.462Z] > git rev-parse --show-toplevel [14ms]
+[2022-11-15T15:06:31.462Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-11-15T15:06:31.478Z] > git rev-parse --show-toplevel [8ms]
+[2022-11-15T15:06:31.478Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-11-15T15:06:31.972Z] > git rev-parse --show-toplevel [2ms]
+[2022-11-15T15:06:31.972Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

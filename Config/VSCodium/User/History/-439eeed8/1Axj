@@ -1,0 +1,4 @@
+float = a = 3
+interger = b = 4
+c = (a*b)
+print(c)

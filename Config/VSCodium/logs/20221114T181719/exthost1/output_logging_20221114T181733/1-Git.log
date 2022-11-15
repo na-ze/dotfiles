@@ -1,0 +1,27 @@
+[2022-11-14T15:17:38.827Z] Уровень ведения журнала: Info
+[2022-11-14T15:17:38.829Z] [info] Проверка найденного git в:git
+[2022-11-14T15:17:39.067Z] [info] Используется git 2.38.1 из git
+[2022-11-14T15:17:40.882Z] > git rev-parse --show-toplevel [1796ms]
+[2022-11-14T15:17:40.882Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-11-14T15:17:40.928Z] > git rev-parse --show-toplevel [33ms]
+[2022-11-14T15:17:40.928Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-11-14T15:17:40.941Z] > git rev-parse --show-toplevel [8ms]
+[2022-11-14T15:17:40.941Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-11-14T16:02:56.338Z] > git rev-parse --show-toplevel [1416ms]
+[2022-11-14T16:02:56.338Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-11-14T16:13:39.437Z] > git rev-parse --show-toplevel [2ms]
+[2022-11-14T16:13:39.437Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-11-14T16:13:40.563Z] > git rev-parse --show-toplevel [2ms]
+[2022-11-14T16:13:40.563Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-11-14T16:14:02.201Z] > git rev-parse --show-toplevel [1ms]
+[2022-11-14T16:14:02.201Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-11-14T16:14:05.253Z] > git rev-parse --show-toplevel [2ms]
+[2022-11-14T16:14:05.253Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

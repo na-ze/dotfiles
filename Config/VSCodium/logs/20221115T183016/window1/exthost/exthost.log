@@ -1,0 +1,16 @@
+2022-11-15 18:30:21.796 [info] Extension host with pid 47211 started
+2022-11-15 18:30:21.796 [info] Skipping acquiring lock for /home/kirill/.config/VSCodium/User/workspaceStorage/efd6a67e16298fe934fd73c57a42fcb0.
+2022-11-15 18:30:22.522 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-11-15 18:30:22.524 [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+2022-11-15 18:30:22.524 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2022-11-15 18:30:22.525 [info] ExtensionService#_doActivateExtension Shan.code-settings-sync, startup: true, activationEvent: '*'
+2022-11-15 18:30:23.492 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-11-15 18:30:23.492 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-15 18:30:23.866 [info] Eager extensions activated
+2022-11-15 18:30:23.911 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-15 18:30:23.911 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-15 18:30:23.912 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-15 18:30:23.912 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2022-11-15 18:30:23.912 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-11-15 18:35:50.189 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2022-11-15 18:40:29.119 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'

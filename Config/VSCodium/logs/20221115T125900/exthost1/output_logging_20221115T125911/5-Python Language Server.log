@@ -1,0 +1,61 @@
+WARNING:pygls.protocol:Cancel notification for unknown message id "10"
+ERROR:pygls.protocol:Failed to handle request 35 textDocument/codeAction partial_result_token=None work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/kirill/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Vs_Code/Shadow%20Fiend/beginer/%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8/1%29%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%26%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C.py') range=106:4-106:4 context=CodeActionContext(diagnostics=[], only=None)
+Traceback (most recent call last):
+  File "/home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 529, in code_action
+    inline_refactoring = jedi_script.inline(*jedi_lines)
+  File "/home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 684, in inline
+    names = [d._name for d in self.get_references(line, column, include_builtins=True)]
+  File "/home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper
+    raise ValueError('`column` parameter (%d) is not in a valid range '
+ValueError: `column` parameter (4) is not in a valid range (0-3) for line 107 ('gth\n').
+[Error - 13:04:45] Request textDocument/codeAction failed.
+  Message: ValueError: `column` parameter (4) is not in a valid range (0-3) for line 107 ('gth\n').
+  Code: -32602 
+{'traceback': ['  File "/home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 529, in code_action\n    inline_refactoring = jedi_script.inline(*jedi_lines)\n', '  File "/home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 684, in inline\n    names = [d._name for d in self.get_references(line, column, include_builtins=True)]\n', '  File "/home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper\n    raise ValueError(\'`column` parameter (%d) is not in a valid range \'\n']}
+WARNING:pygls.protocol:Cancel notification for unknown message id "35"
+WARNING:pygls.protocol:Cancel notification for unknown message id "73"
+WARNING:pygls.protocol:Cancel notification for unknown message id "217"
+WARNING:pygls.protocol:Cancel notification for unknown message id "221"
+WARNING:pygls.protocol:Cancel notification for unknown message id "266"
+WARNING:pygls.protocol:Cancel notification for unknown message id "374"
+WARNING:pygls.protocol:Cancel notification for unknown message id "376"
+WARNING:pygls.protocol:Cancel notification for unknown message id "383"
+WARNING:pygls.protocol:Cancel notification for unknown message id "385"
+WARNING:pygls.protocol:Cancel notification for unknown message id "692"
+WARNING:pygls.protocol:Cancel notification for unknown message id "703"
+WARNING:pygls.protocol:Cancel notification for unknown message id "708"
+WARNING:pygls.protocol:Cancel notification for unknown message id "718"
+WARNING:pygls.protocol:Cancel notification for unknown message id "729"
+WARNING:pygls.protocol:Cancel notification for unknown message id "836"
+WARNING:pygls.protocol:Cancel notification for unknown message id "837"
+WARNING:pygls.protocol:Cancel notification for unknown message id "838"
+WARNING:pygls.protocol:Cancel notification for unknown message id "919"
+WARNING:pygls.protocol:Cancel notification for unknown message id "998"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1039"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1279"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1377"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1382"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1395"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1528"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1651"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1691"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1697"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1698"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1703"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1715"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1726"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1757"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1833"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1871"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1872"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1873"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1874"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1875"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1876"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1882"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2035"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2055"

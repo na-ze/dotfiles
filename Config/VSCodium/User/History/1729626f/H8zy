@@ -1,0 +1,5 @@
+int
+(num1) = 7
+(num2) = 3
+(num3) = int(a)/int(b)
+print(num3)

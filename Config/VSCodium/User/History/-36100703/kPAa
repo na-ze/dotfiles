@@ -1,0 +1,25 @@
+program rost;
+uses crt;
+var a:array[1..25] of integer;
+sr:real;
+kol,i:integer;
+begin
+clrscr;
+writeln('введите рост всех учеников');
+for i:=1 to 25 do
+read(a[i]);
+for i:=1 to 25 do
+sr:=0;
+sr:=sr+a[i];
+sr:=sr/25
+kol:=0;
+for i:=1 to 25 do
+begin
+  if a[i]>sr then 
+  begin
+   kol:=kol+1;
+ end;
+end;
+writeln(kol);
+readkey
+end.
