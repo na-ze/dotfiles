@@ -1,0 +1,69 @@
+{
+	"name": "atomize-atom-one-dark-theme",
+	"displayName": "Atomize (Atom One Dark theme)",
+	"description": "A detailed and accurate Atom One Dark Theme",
+	"version": "2.0.2",
+	"publisher": "emroussel",
+	"icon": "images/icon.png",
+	"author": {
+		"name": "emroussel"
+	},
+	"engines": {
+		"vscode": "^1.48.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"color",
+		"theme",
+		"atom",
+		"dark",
+		"one dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Atomize",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atomize-color-theme.json"
+			}
+		]
+	},
+	"galleryBanner": {
+		"color": "#282C34",
+		"theme": "dark"
+	},
+	"scripts": {
+		"fix": "prettier '**/*.{js,jsx,ts,tsx,json,md,yml}' --write",
+		"lint": "prettier '**/*.{js,jsx,ts,tsx,json,md,yml}' --check",
+		"prepare": "husky install"
+	},
+	"lint-staged": {
+		"**/*.{js,jsx,ts,tsx,json,md,yml}": "npm run fix"
+	},
+	"bugs": {
+		"url": "https://github.com/emroussel/atomize/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/emroussel/atomize.git"
+	},
+	"homepage": "https://github.com/emroussel/atomize/blob/main/README.md",
+	"devDependencies": {
+		"husky": "^8.0.1",
+		"lint-staged": "^13.0.1",
+		"prettier": "2.6.2"
+	},
+	"__metadata": {
+		"id": "b33f4b00-b7b4-4259-a263-eab2d86ac79b",
+		"publisherDisplayName": "emroussel",
+		"publisherId": "ef208bcb-6f04-4154-9969-7fdfdf7c525f",
+		"targetPlatform": "universal",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1667407409815,
+		"preRelease": false
+	}
+}
