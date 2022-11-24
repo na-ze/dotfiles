@@ -1,5 +1,0 @@
-[2022-11-14 16:03:50.405] [renderer1] [critical] Extension 'ms-toolsai.jupyter' appears in product.json but enables LESS API proposals than the extension wants.
-package.json (LOSES): notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden
-product.json (WINS): notebookControllerKind, notebookDebugOptions, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow
-[2022-11-14 16:04:02.003] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
-[2022-11-14 16:04:02.535] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW

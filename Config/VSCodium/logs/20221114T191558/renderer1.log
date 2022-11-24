@@ -1,8 +1,0 @@
-[2022-11-14 19:16:00.272] [renderer1] [critical] Extension 'ms-toolsai.jupyter' appears in product.json but enables LESS API proposals than the extension wants.
-package.json (LOSES): notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden
-product.json (WINS): notebookControllerKind, notebookDebugOptions, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow
-[2022-11-14 23:21:11.034] [renderer1] [error] ValueError: `column` parameter (1) is not in a valid range (0-0) for line 59 ('\n').: Error: ValueError: `column` parameter (1) is not in a valid range (0-0) for line 59 ('\n').
-	at /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/out/client/extension.js:2:2170901
-	at /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/out/client/extension.js:2:2171195
-	at Immediate.<anonymous> (/home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/out/client/extension.js:2:2171557)
-	at process.processImmediate (node:internal/timers:466:21)

@@ -1,4 +1,0 @@
-from math import *
-num = input("n")
-print(int(n)*int(n)*int(n)*int(n)*int(n)*int(n)*int(n)
-      * int(n)*int(n)*int(n)*int(n)*int(n)*int(n)*int(n))

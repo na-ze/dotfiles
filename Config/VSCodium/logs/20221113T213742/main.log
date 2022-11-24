@@ -1,7 +1,0 @@
-[2022-11-13 21:37:46.884] [main] [info] update#setState idle
-[2022-11-13 21:37:53.468] [main] [info] Starting extension host with pid 2708 (fork() took 8 ms).
-[2022-11-13 21:38:03.272] [main] [info] Enabling inspect port on extension host with pid 2708.
-[2022-11-13 21:38:06.545] [main] [info] Waiting for extension host with pid 2708 to exit.
-[2022-11-13 21:38:07.697] [main] [info] Extension host with pid 2708 exited with code: 0, signal: null.
-[2022-11-13 21:38:09.756] [main] [warning] [storage main] detected slow close() operation: Time: 3209ms, DB size: 196608b, Large Keys: iconThemeData:90032, colorThemeData:33458, ms-python.python:8762, ms-toolsai.jupyter:2405, workbench.activity.placeholderViewlets:2201
-[2022-11-13 21:38:09.853] [main] [warning] [storage main] detected slow close() operation: Time: 3308ms, DB size: 73728b, Large Keys: memento/workbench.editors.files.textFileEditor:11685, terminal.integrated.bufferState:7222, history.entries:4287, codelens/cache2:3320, debug.chosenenvironment:2065

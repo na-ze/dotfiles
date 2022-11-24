@@ -1,5 +1,0 @@
-int
-(num1) = 7
-(num2) = 3
-(num3) = a/b
-print(c)

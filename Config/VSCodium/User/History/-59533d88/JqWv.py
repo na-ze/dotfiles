@@ -1,1 +1,0 @@
-snscrape --max-results 10 vkontakte-user k.schiroc > vk-@k.schiroc.txt

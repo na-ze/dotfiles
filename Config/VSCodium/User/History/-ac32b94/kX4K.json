@@ -1,7 +1,0 @@
-{
-    "security.workspace.trust.untrustedFiles": "newWindow",
-    "editor.formatOnSave": true,
-    "editor.insertSpaces": false,
-    "workbench.colorTheme": "GitHub Dark",
-    "explorer.confirmDelete": false
-}

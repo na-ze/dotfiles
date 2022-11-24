@@ -1,2 +1,0 @@
-name = 'asd'
-print(f'Hello {name}!')

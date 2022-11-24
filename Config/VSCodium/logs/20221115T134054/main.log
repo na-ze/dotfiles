@@ -1,5 +1,0 @@
-[2022-11-15 13:40:54.816] [main] [info] update#setState idle
-[2022-11-15 13:40:56.527] [main] [info] Starting extension host with pid 7843 (fork() took 15 ms).
-[2022-11-15 13:41:24.821] [main] [info] update#setState checking for updates
-[2022-11-15 13:41:25.175] [main] [info] update#setState available for download
-[2022-11-15 17:24:14.637] [main] [info] Extension host with pid 7843 exited with code: 0, signal: null.
