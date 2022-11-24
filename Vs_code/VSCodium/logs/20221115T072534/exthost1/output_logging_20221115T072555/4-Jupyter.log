@@ -1,0 +1,17 @@
+VSCodium (1.72.2, undefined, desktop)
+Jupyter Extension Version: 2022.10.110.
+Python Extension Version: 2022.16.1.
+Workspace folder /home/kirill/Документы/Vs_Code
+info 07:26:25.193: ZMQ install verified.
+info 07:26:25.664: LSP Notebooks experiment is disabled -- Pylance disabled or not installed
+info 07:26:25.896: Got empty env vars with python /usr/bin/python in 78ms
+info 07:26:25.896: Got env vars ourselves faster /usr/bin/python with env var count 57 in 78ms
+info 07:26:25.902: Process Execution: > /usr/bin/python -m pip list
+> /usr/bin/python -m pip list
+info 08:59:14.775: Shutting down notebooks for 2f7757f6-b4ff-49d4-8034-6f34b53aeae4
+info 08:59:14.775: Disposing HostJupyterExecution 948889b5-45bf-480e-bd6f-51c5035c20bd
+info 08:59:14.775: Disposing super HostJupyterExecution 948889b5-45bf-480e-bd6f-51c5035c20bd
+info 08:59:14.775: Disposing HostJupyterExecution 948889b5-45bf-480e-bd6f-51c5035c20bd
+info 08:59:14.775: Finished disposing HostJupyterExecution  948889b5-45bf-480e-bd6f-51c5035c20bd
+info 08:59:14.777: Cleaning up server cache 948889b5-45bf-480e-bd6f-51c5035c20bd
+info 08:59:14.778: Finished disposing HostJupyterExecution  948889b5-45bf-480e-bd6f-51c5035c20bd

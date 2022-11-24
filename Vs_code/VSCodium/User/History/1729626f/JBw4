@@ -1,0 +1,5 @@
+
+int = num1 = 7
+int = num2 = 3
+int = num3 = a+b
+print(num3)

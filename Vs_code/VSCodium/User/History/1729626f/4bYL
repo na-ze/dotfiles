@@ -1,0 +1,6 @@
+
+int
+num1 = 5
+num2 = 6
+num3 = a+b
+print(num3)

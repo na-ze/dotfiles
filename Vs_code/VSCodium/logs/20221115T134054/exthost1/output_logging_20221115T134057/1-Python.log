@@ -1,0 +1,539 @@
+Telemetry level is off
+Experiments are disabled, only manually opted experiments are active.
+LSP Notebooks experiment is disabled -- not using Pylance
+LSP Notebooks interactive window support is disabled -- not in LSP Notebooks experiment
+> conda info --json
+Python interpreter path: /usr/bin/python
+> /usr/share/anaconda/bin/conda info --json
+> /bin/python ~/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/interpreterInfo.py
+Starting Jedi language server for Vs_Code.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/normalizeSelection.py
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/normalizeSelection.py
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/normalizeSelection.py
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/beginer/Списки/1)списки&словарь.py.319be206657bbebb2324c73cb5ea37a8.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+DAP Server launched with command: /usr/bin/python /home/kirill/.vscode-oss/extensions/ms-python.python-2022.16.1-universal/pythonFiles/lib/python/debugpy/adapter
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/join/1)ну, я тут решаю.py.7ba610917f140562369ec0a394886b2d.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/join/1)ну, я тут решаю.py.7ba610917f140562369ec0a394886b2d.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/join/1)ну, я тут решаю.py.7ba610917f140562369ec0a394886b2d.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/join/1)ну, я тут решаю.py.7ba610917f140562369ec0a394886b2d.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/join/1)ну, я тут решаю.py.7ba610917f140562369ec0a394886b2d.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python -m autopep8 --diff "./Shadow Fiend/join/1)ну, я тут решаю.py.7ba610917f140562369ec0a394886b2d.tmp"
+cwd: .
+> /usr/bin/python -c "import autopep8"
+> /usr/bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.

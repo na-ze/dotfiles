@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/kirill/.config/VSCodium/User/workspaceStorage/cb80427969281b304b121ed7ba4848f9/redhat.java/ss_ws/.metadata/.plugins/org.eclipse.jdt.core

@@ -1,0 +1,2 @@
+potato = input("сколько картошки в день?")
+print(int(potato*30))

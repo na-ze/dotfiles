@@ -1,0 +1,4 @@
+[2022-11-15 13:40:56.605] [renderer1] [critical] Extension 'ms-toolsai.jupyter' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden
+product.json (WINS): notebookControllerKind, notebookDebugOptions, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow
+[2022-11-15 13:41:06.726] [renderer1] [error] Error while registering log channel file:///home/kirill/.config/VSCodium/logs/20221115T134054/userDataSync.log Timed out while waiting for file to be created

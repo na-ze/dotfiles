@@ -1,0 +1,10 @@
+{
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": false,
+    "explorer.confirmDelete": false,
+    "bracketPairColorizer.depreciation-notice": false,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": 1
+}

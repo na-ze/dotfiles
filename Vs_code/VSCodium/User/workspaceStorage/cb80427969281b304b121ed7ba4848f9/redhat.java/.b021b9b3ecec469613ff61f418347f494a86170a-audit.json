@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/kirill/.config/VSCodium/User/workspaceStorage/cb80427969281b304b121ed7ba4848f9/redhat.java/.b021b9b3ecec469613ff61f418347f494a86170a-audit.json",
+    "files": [
+        {
+            "date": 1667510389994,
+            "name": "/home/kirill/.config/VSCodium/User/workspaceStorage/cb80427969281b304b121ed7ba4848f9/redhat.java/client.log.2022-11-04",
+            "hash": "a3def80540e34a38f0751c5d2b40d2e5"
+        }
+    ]
+}

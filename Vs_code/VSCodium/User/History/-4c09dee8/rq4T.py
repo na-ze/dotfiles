@@ -1,0 +1,6 @@
+n = float(input("Количество школьников"))
+k = float(input("Количество яблок"))
+aple = float(n/k)
+ostatok = (n % k)
+print(aple)
+print(ostatok)
